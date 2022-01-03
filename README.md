@@ -1,5 +1,6 @@
 # lab-psu
 
+Linear Powersupply
 
 ![P1000764](https://user-images.githubusercontent.com/11595624/147976817-74b957d6-0296-4130-93cf-628bfc08a045.JPG)
 ![P1000843](https://user-images.githubusercontent.com/11595624/147976964-0b5a69e6-ca97-4065-9408-03ec2270456e.JPG)
